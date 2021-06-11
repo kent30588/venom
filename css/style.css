@@ -154,15 +154,10 @@ body {
   max-width: 350px;
 }
 
-.content .trailer {
+.slide,
+.carousel-inner {
   width: 356px;
   height: 205px;
-  background: url(../img/treiler-cover.jpg) no-repeat center / contain;
-  border-radius: 5px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 22px;
 }
 
 .trailer .play {
