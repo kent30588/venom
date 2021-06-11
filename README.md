@@ -5,3 +5,6 @@
 -HTML
 -CSS
 -Normolize
+-Bootstrap (слайдер)
+-js
+-библиотека fancybox
